@@ -1,0 +1,53 @@
+[2026-04-02 14:57:39 +0000] Menu.xm constructor executed
+[2026-04-02 14:57:51 +0000] UI created with Dump Localization button
+[2026-04-02 14:58:01 +0000] UnityFramework loaded at base address: 0x204a85340
+[2026-04-02 14:58:01 +0000] IL2CPP function pointers initialized
+[2026-04-02 14:58:01 +0000] Attempt 1 to resolve IL2CPP offsets and methods
+[2026-04-02 14:58:01 +0000] Found image: UnityEngine.CoreModule.dll
+[2026-04-02 14:58:01 +0000] Method UnityEngine.Object::FindObjectsOfType resolved
+[2026-04-02 14:58:01 +0000] Method UnityEngine.Object::get_name resolved
+[2026-04-02 14:58:01 +0000] Method UnityEngine.GameObject::get_transform resolved
+[2026-04-02 14:58:01 +0000] Method UnityEngine.Transform::get_position resolved
+[2026-04-02 14:58:01 +0000] Method UnityEngine.Transform::set_position resolved
+[2026-04-02 14:58:01 +0000] Method UnityEngine.GameObject::get_layer resolved
+[2026-04-02 14:58:01 +0000] Method UnityEngine.Transform::get_gameObject resolved
+[2026-04-02 14:58:01 +0000] Method UnityEngine.GameObject::GetComponent resolved
+[2026-04-02 14:58:01 +0000] Method UnityEngine.GameObject::SetActive resolved
+[2026-04-02 14:58:01 +0000] Method UnityEngine.Transform::GetChild resolved
+[2026-04-02 14:58:01 +0000] Found image: UnityEngine.Physics2DModule.dll
+[2026-04-02 14:58:01 +0000] Attempt 2 to resolve IL2CPP offsets and methods
+[2026-04-02 14:58:02 +0000] Attempt 3 to resolve IL2CPP offsets and methods
+[2026-04-02 14:58:02 +0000] Attempt 4 to resolve IL2CPP offsets and methods
+[2026-04-02 14:58:03 +0000] Attempt 5 to resolve IL2CPP offsets and methods
+[2026-04-02 14:58:03 +0000] Attempt 6 to resolve IL2CPP offsets and methods
+[2026-04-02 14:58:04 +0000] Attempt 7 to resolve IL2CPP offsets and methods
+[2026-04-02 14:58:04 +0000] Attempt 8 to resolve IL2CPP offsets and methods
+[2026-04-02 14:58:05 +0000] Attempt 9 to resolve IL2CPP offsets and methods
+[2026-04-02 14:58:05 +0000] Attempt 10 to resolve IL2CPP offsets and methods
+[2026-04-02 14:58:06 +0000] Attempt 11 to resolve IL2CPP offsets and methods
+[2026-04-02 14:58:06 +0000] Attempt 12 to resolve IL2CPP offsets and methods
+[2026-04-02 14:58:07 +0000] Attempt 13 to resolve IL2CPP offsets and methods
+[2026-04-02 14:58:07 +0000] Attempt 14 to resolve IL2CPP offsets and methods
+[2026-04-02 14:58:08 +0000] Attempt 15 to resolve IL2CPP offsets and methods
+[2026-04-02 14:58:08 +0000] Attempt 16 to resolve IL2CPP offsets and methods
+[2026-04-02 14:58:09 +0000] Attempt 17 to resolve IL2CPP offsets and methods
+[2026-04-02 14:58:09 +0000] Attempt 18 to resolve IL2CPP offsets and methods
+[2026-04-02 14:58:10 +0000] Attempt 19 to resolve IL2CPP offsets and methods
+[2026-04-02 14:58:10 +0000] Attempt 20 to resolve IL2CPP offsets and methods
+[2026-04-02 14:58:11 +0000] Attempt 21 to resolve IL2CPP offsets and methods
+[2026-04-02 14:58:11 +0000] Attempt 22 to resolve IL2CPP offsets and methods
+[2026-04-02 14:58:12 +0000] Attempt 23 to resolve IL2CPP offsets and methods
+[2026-04-02 14:58:12 +0000] Attempt 24 to resolve IL2CPP offsets and methods
+[2026-04-02 14:58:13 +0000] Attempt 25 to resolve IL2CPP offsets and methods
+[2026-04-02 14:58:13 +0000] Attempt 26 to resolve IL2CPP offsets and methods
+[2026-04-02 14:58:14 +0000] Attempt 27 to resolve IL2CPP offsets and methods
+[2026-04-02 14:58:14 +0000] Attempt 28 to resolve IL2CPP offsets and methods
+[2026-04-02 14:58:15 +0000] Attempt 29 to resolve IL2CPP offsets and methods
+[2026-04-02 14:58:15 +0000] Attempt 30 to resolve IL2CPP offsets and methods
+[2026-04-02 14:58:16 +0000] Failed to resolve all IL2CPP offsets and methods after 30 attempts
+[2026-04-02 14:58:16 +0000] Menu opened
+[2026-04-02 14:58:35 +0000] Reload Il2Cpp button pressed
+[2026-04-02 14:58:35 +0000] Menu closed
+[2026-04-02 14:58:38 +0000] === Starting Localization Keys Dump ===
+[2026-04-02 14:58:38 +0000] Found image: Assembly-CSharp.dll
+[2026-04-02 14:58:38 +0000] Class Core.Manager.Localization initialized
